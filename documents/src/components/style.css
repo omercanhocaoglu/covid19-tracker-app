@@ -1,0 +1,50 @@
+.justify-center {
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+.text-center {
+    text-align: center;
+}
+
+.lineGraphContainer {
+    width: 600px;
+    height: 600px;
+    margin: 50px auto;
+
+}
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-purple {
+    color: blueviolet;
+}
+
+.border-bottom-blue {
+    border-bottom: 10px solid blue;
+}
+
+.border-bottom-red {
+    border-bottom: 10px solid red;
+}
+
+.border-bottom-purple {
+    border-bottom: 10px solid blueviolet;
+}
+
+.p-normal {
+    padding: 10px;
+}
+
+.border-normal {
+    border: 2px solid grey;
+    width: 200px;
+
+}
